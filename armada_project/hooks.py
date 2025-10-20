@@ -1,0 +1,6 @@
+app_name = "armada_project"
+app_title = "Armada Project"
+app_publisher = "Ruxshona"
+app_description = "ERPNext App for Armada Company"
+app_email = "your_email@gmail.com"
+app_license = "MIT"
